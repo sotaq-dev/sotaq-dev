@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&height=30&lines=Hi+there%2C+I'am+sotaq">
+# <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> <img width="50%" src= "https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&height=30&lines=Hi+there%2C+I'am+sotaq.">
 
 <p align="center">
  <a href="https://discord.com/users/599988978531172352" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
